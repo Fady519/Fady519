@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=200&section=header&text=Fady%20Kaiser&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20.NET%20Developer&descSize=20&descAlignY=58&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=200&section=header&text=Fady%20Kaiser&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20.NET%20Developer&descSize=20&descAlignY=58&descColor=ffffff" width="100%"/>
 
 </div>
 
@@ -10,8 +10,9 @@
 
 ### 👋 Hey, I'm Fady Kaiser
 
-**Backend Developer** crafting scalable, clean, and production-ready .NET applications.  
-Passionate about clean architecture, RESTful APIs, and turning complex problems into elegant solutions.
+**Full-Stack Developer** — I build things end-to-end.  
+Clean APIs on the backend. Smooth interfaces on the frontend.  
+Passionate about scalable architecture, real-world projects, and writing code that actually makes sense.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fady-kaiser/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fady519)
@@ -27,10 +28,11 @@ Passionate about clean architecture, RESTful APIs, and turning complex problems 
 var fady = new Developer
 {
     Name        = "Fady Kaiser",
-    Role        = "Backend .NET Developer",
-    Passions    = new[] { "Clean Architecture", "RESTful APIs", "Scalable Systems" },
-    CurrentFocus = "Building production-grade .NET applications",
-    OpenTo      = "Backend roles & collaborative projects"
+    Role        = "Full-Stack .NET Developer",
+    Backend     = new[] { "ASP.NET Core", "EF Core", "Clean Architecture", "RESTful APIs" },
+    Frontend    = new[] { "HTML", "CSS", "JavaScript", "Bootstrap" },
+    Passions    = new[] { "Scalable Systems", "Clean Code", "Real-World Projects" },
+    OpenTo      = "Full-Stack & Backend roles"
 };
 ```
 
@@ -40,30 +42,42 @@ var fady = new Developer
 
 <div align="center">
 
-**Languages & Frameworks**
+### ⚙️ Backend
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Web API](https://img.shields.io/badge/RESTful%20API-005571?style=for-the-badge)
 
-**Databases & Caching**
+### 🎨 Frontend
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🗄️ Databases & Caching
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-**Auth, Payments & Tools**
+### 🔐 Auth, Payments & Tools
 
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![ASP.NET Identity](https://img.shields.io/badge/ASP.NET%20Identity-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![AutoMapper](https://img.shields.io/badge/AutoMapper-BE0000?style=for-the-badge&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Patterns & Architecture**
+### 🏗️ Architecture & Patterns
 
-![Clean Architecture](https://img.shields.io/badge/Onion%20Architecture-4F46E5?style=for-the-badge)
-![Repository Pattern](https://img.shields.io/badge/Repository%20Pattern-7C3AED?style=for-the-badge)
-![CQRS](https://img.shields.io/badge/Unit%20of%20Work-6D28D9?style=for-the-badge)
-![SOLID](https://img.shields.io/badge/SOLID%20Principles-8B5CF6?style=for-the-badge)
+![Onion Architecture](https://img.shields.io/badge/Onion%20Architecture-4F46E5?style=for-the-badge)
+![3-Layer](https://img.shields.io/badge/3--Layer%20Architecture-7C3AED?style=for-the-badge)
+![Repository Pattern](https://img.shields.io/badge/Repository%20Pattern-6D28D9?style=for-the-badge)
+![Unit of Work](https://img.shields.io/badge/Unit%20of%20Work-8B5CF6?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID%20Principles-A78BFA?style=for-the-badge)
 
 </div>
 
