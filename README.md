@@ -30,7 +30,7 @@ var fady = new Developer
     Name        = "Fady Kaiser",
     Role        = "Full-Stack .NET Developer",
     Backend     = new[] { "ASP.NET Core", "EF Core", "Clean Architecture", "RESTful APIs" },
-    Frontend    = new[] { "HTML", "CSS", "JavaScript", "Bootstrap" },
+    Frontend    = new[] { "React.js", "Next.js", "TypeScript", "Tailwind CSS", "jQuery" },
     Passions    = new[] { "Scalable Systems", "Clean Code", "Real-World Projects" },
     OpenTo      = "Full-Stack & Backend roles"
 };
@@ -55,7 +55,12 @@ var fady = new Developer
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### 🗄️ Databases & Caching
 
