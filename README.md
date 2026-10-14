@@ -69,6 +69,8 @@ A complete gym platform: public website, admin dashboard, trainer portal and mem
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://ecommerce-full-stack-nine.vercel.app"><img src="https://raw.githubusercontent.com/Fady519/Ecommerce-FullStack/main/docs/screenshots/01_home.png" alt="LuxeStore Full-Stack E-Commerce" width="100%"/></a>
+
 ### 🛍️ LuxeStore — Full-Stack E-Commerce Platform
 
 A complete retail platform: dynamic catalog, isolated carts, checkout with Stripe, order lifecycle & live admin console.
