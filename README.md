@@ -69,13 +69,18 @@ A complete gym platform: public website, admin dashboard, trainer portal and mem
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 E-Commerce RESTful API
-Production-style API with **Onion Architecture**, JWT auth, Redis caching and Stripe payments.
+### 🛍️ LuxeStore — Full-Stack E-Commerce Platform
 
-**Stack:** ASP.NET Core · EF Core · SQL Server · Redis · Stripe · JWT
+A complete retail platform: dynamic catalog, isolated carts, checkout with Stripe, order lifecycle & live admin console.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Fady519/E_CommerceSolution)
-[![Live](https://img.shields.io/badge/Live%20Demo-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)](http://ecommercesolution.runasp.net/swagger/index.html)
+- **Backend:** ASP.NET Core 10 Web API · EF Core 10 · SQL Server · Redis Basket & Output Cache · Stripe Payments · JWT RBAC
+- **Frontend:** React 19 · Vite · React Router 7 · Framer Motion · Swiper · Dark / Light Mode · Vitest & Playwright E2E
+
+[![Live](https://img.shields.io/badge/Live%20Demo-Storefront-0284C7?style=flat-square&logo=vercel)](https://ecommerce-full-stack-nine.vercel.app)
+[![API](https://img.shields.io/badge/API-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)](https://ecommercesolution.runasp.net/swagger/index.html)
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/Fady519/Ecommerce-FullStack)
+
+<sub>1-Click demo logins for Admin and Customer on the login page.</sub>
 
 </td>
 <td width="50%" valign="top">
