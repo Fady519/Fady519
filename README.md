@@ -87,13 +87,19 @@ A complete retail platform: dynamic catalog, isolated carts, checkout with Strip
 </td>
 <td width="50%" valign="top">
 
-### 📊 Admin Dashboard
-A responsive dashboard UI built with **Next.js and TypeScript**.
+<a href="https://dashboard-flax-two-20.vercel.app/login"><img src="https://raw.githubusercontent.com/Fady519/Dashboard/main/docs/screenshots/01_dashboard_overview.png" alt="NexusPro Admin Dashboard" width="100%"/></a>
 
-**Stack:** Next.js · React · TypeScript · Tailwind CSS
+### 📊 NexusPro — Admin Dashboard
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Fady519/Dashboard)
-[![Live](https://img.shields.io/badge/Live%20Demo-Visit-000000?style=flat-square&logo=vercel)](https://dashboard-flax-two-20.vercel.app)
+A commercial administrative control panel with analytical charting, FullCalendar scheduling & RBAC session protection.
+
+- **Frontend:** Next.js 14 · React 18 · TypeScript · Tailwind CSS · Lucide Icons · Zero-Flicker Dark Mode
+- **Features:** FullCalendar Scheduler · Multi-Series Revenue & Traffic Analytics · Invoices Table · Validated Forms
+
+[![Live](https://img.shields.io/badge/Live%20Demo-Dashboard-6366F1?style=flat-square&logo=vercel)](https://dashboard-flax-two-20.vercel.app/login)
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/Fady519/Dashboard)
+
+<sub>Demo credentials: <code>admin@admin.com</code> / <code>admin</code> on login page.</sub>
 
 </td>
 </tr>
