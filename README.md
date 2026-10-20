@@ -26,7 +26,7 @@ var fady = new Developer
 {
     Name      = "Fady Kaiser",
     Role      = "Full Stack .NET Developer",
-    Backend   = ["ASP.NET Core Web API", "EF Core", "SQL Server", "Identity + JWT", "Clean / Onion Architecture"],
+    Backend   = ["ASP.NET Core Web API", "EF Core", "SQL Server", "Identity + JWT", "Layered / Onion Architecture"],
     Frontend  = ["Next.js", "React", "TypeScript", "Tailwind CSS", "TanStack Query", "Redux Toolkit"],
     Quality   = ["xUnit integration tests", "Playwright E2E", "Accessibility", "i18n (EN / AR, RTL)"],
     ShipsTo   = ["Vercel", "IIS / MonsterASP"],
@@ -50,7 +50,7 @@ var fady = new Developer
 A complete gym platform: public website, admin dashboard, trainer portal and member portal, in **English & Arabic (RTL)**.
 
 - **Backend:** ASP.NET Core 10 Web API · EF Core 10 · SQL Server · JWT with rotating refresh tokens · 96 endpoints · **379 integration tests**
-- **Frontend:** Next.js 16 · React 19 · TypeScript · Tailwind CSS 4 · shadcn/ui · TanStack Query · Lighthouse 100 accessibility & SEO
+- **Frontend:** Next.js 16 · React 19 · TypeScript · Tailwind CSS 4 · shadcn/ui · TanStack Query · Lighthouse 100 accessibility, best practices & SEO
 - **Real rules:** class capacity & trainer clashes, membership freeze / renew / refund, QR check-in
 
 [![Live](https://img.shields.io/badge/Live%20Demo-Try%20it-4F46E5?style=flat-square&logo=vercel)](https://power-fitness-gym.vercel.app)
@@ -73,27 +73,27 @@ A complete gym platform: public website, admin dashboard, trainer portal and mem
 
 ### 🛍️ LuxeStore — Full-Stack E-Commerce Platform
 
-A complete retail platform: dynamic catalog, isolated carts, checkout with Stripe, order lifecycle & live admin console.
+A complete retail platform: filterable catalog, owner-only carts, checkout with Cash on Delivery or Stripe (test mode), orders & admin console.
 
-- **Backend:** ASP.NET Core 10 Web API · EF Core 10 · SQL Server · Redis Basket & Output Cache · Stripe Payments · JWT RBAC
+- **Backend:** ASP.NET Core 10 Web API · EF Core 10 · SQL Server · Onion Architecture · Output Caching · Stripe (test mode) · JWT RBAC
 - **Frontend:** React 19 · Vite · React Router 7 · Framer Motion · Swiper · Dark / Light Mode · Vitest & Playwright E2E
 
 [![Live](https://img.shields.io/badge/Live%20Demo-Storefront-0284C7?style=flat-square&logo=vercel)](https://ecommerce-full-stack-nine.vercel.app)
 [![API](https://img.shields.io/badge/API-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)](https://ecommercesolution.runasp.net/swagger/index.html)
 [![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/Fady519/Ecommerce-FullStack)
 
-<sub>1-Click demo logins for Admin and Customer on the login page.</sub>
+<sub>1-Click demo login on the login page.</sub>
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://dashboard-flax-two-20.vercel.app/login"><img src="https://raw.githubusercontent.com/Fady519/Dashboard/main/docs/screenshots/01_dashboard_overview.png" alt="NexusPro Admin Dashboard" width="100%"/></a>
+<a href="https://dashboard-flax-two-20.vercel.app/login"><img src="https://raw.githubusercontent.com/Fady519/Dashboard/main/docs/screenshots/01_dashboard_overview.png" alt="Admin Dashboard" width="100%"/></a>
 
-### 📊 NexusPro — Admin Dashboard
+### 📊 Admin Dashboard
 
 A commercial administrative control panel with analytical charting, FullCalendar scheduling & RBAC session protection.
 
-- **Frontend:** Next.js 14 · React 18 · TypeScript · Tailwind CSS · Lucide Icons · Zero-Flicker Dark Mode
+- **Frontend:** Next.js 16 · React 19 · TypeScript · Tailwind CSS 4 · Recharts · Lucide Icons · Dark Mode
 - **Features:** FullCalendar Scheduler · Multi-Series Revenue & Traffic Analytics · Invoices Table · Validated Forms
 
 [![Live](https://img.shields.io/badge/Live%20Demo-Dashboard-6366F1?style=flat-square&logo=vercel)](https://dashboard-flax-two-20.vercel.app/login)
@@ -142,7 +142,6 @@ A commercial administrative control panel with analytical charting, FullCalendar
 ### 🗄️ Data, testing & delivery
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
@@ -153,7 +152,7 @@ A commercial administrative control panel with analytical charting, FullCalendar
 
 ### 🏗️ Architecture & practices
 
-![Clean Architecture](https://img.shields.io/badge/Onion%20%2F%20Clean%20Architecture-4F46E5?style=for-the-badge)
+![Onion Architecture](https://img.shields.io/badge/Onion%20%2F%20Layered%20Architecture-4F46E5?style=for-the-badge)
 ![N-Layer](https://img.shields.io/badge/N--Layer%20Architecture-7C3AED?style=for-the-badge)
 ![Repository + UoW](https://img.shields.io/badge/Repository%20%2B%20Unit%20of%20Work-6D28D9?style=for-the-badge)
 ![SOLID](https://img.shields.io/badge/SOLID-8B5CF6?style=for-the-badge)
