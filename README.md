@@ -91,15 +91,15 @@ A complete retail platform: filterable catalog, owner-only carts, checkout with 
 
 ### 📊 Admin Dashboard
 
-A commercial administrative control panel with analytical charting, FullCalendar scheduling & RBAC session protection.
+A frontend admin dashboard: KPI cards and Recharts charts, a FullCalendar scheduler, team, contacts and invoices pages, and a validated form.
 
 - **Frontend:** Next.js 16 · React 19 · TypeScript · Tailwind CSS 4 · Recharts · Lucide Icons · Dark Mode
-- **Features:** FullCalendar Scheduler · Multi-Series Revenue & Traffic Analytics · Invoices Table · Validated Forms
+- **Features:** FullCalendar Scheduler · Revenue & Sales Charts · Invoices Table · React Hook Form + Zod · Dark Mode without a theme flash
 
 [![Live](https://img.shields.io/badge/Live%20Demo-Dashboard-6366F1?style=flat-square&logo=vercel)](https://dashboard-flax-two-20.vercel.app/login)
 [![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/Fady519/Dashboard)
 
-<sub>Demo credentials: <code>admin@admin.com</code> / <code>admin</code> on login page.</sub>
+<sub>Demo account: <code>admin@admin.com</code> / <code>admin</code> (or the <b>Use demo account</b> button on the login page).</sub>
 
 </td>
 </tr>
